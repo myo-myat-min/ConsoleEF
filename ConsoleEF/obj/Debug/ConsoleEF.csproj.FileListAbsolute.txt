@@ -1,0 +1,15 @@
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\ConsoleEF.exe.config
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\ConsoleEF.exe
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\ConsoleEF.pdb
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\EntityFramework.dll
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\EntityFramework.xml
+D:\C#_Projects\ConsoleEF\ConsoleEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.csproj.AssemblyReference.cache
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.csproj.SuggestedBindingRedirects.cache
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.csproj.CoreCompileInputs.cache
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.csproj.CopyComplete
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.exe
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.pdb
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.Migrations.CreateDeviceAndCustomerTables.resources
+D:\C#_Projects\ConsoleEF\ConsoleEF\obj\Debug\ConsoleEF.csproj.GenerateResource.cache
